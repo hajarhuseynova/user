@@ -1,0 +1,15 @@
+C:\Users\99455\Desktop\hecer c++\user\bin\Debug\net6.0\user.exe
+C:\Users\99455\Desktop\hecer c++\user\bin\Debug\net6.0\user.deps.json
+C:\Users\99455\Desktop\hecer c++\user\bin\Debug\net6.0\user.runtimeconfig.json
+C:\Users\99455\Desktop\hecer c++\user\bin\Debug\net6.0\user.dll
+C:\Users\99455\Desktop\hecer c++\user\bin\Debug\net6.0\user.pdb
+C:\Users\99455\Desktop\hecer c++\user\obj\Debug\net6.0\user.csproj.AssemblyReference.cache
+C:\Users\99455\Desktop\hecer c++\user\obj\Debug\net6.0\user.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99455\Desktop\hecer c++\user\obj\Debug\net6.0\user.AssemblyInfoInputs.cache
+C:\Users\99455\Desktop\hecer c++\user\obj\Debug\net6.0\user.AssemblyInfo.cs
+C:\Users\99455\Desktop\hecer c++\user\obj\Debug\net6.0\user.csproj.CoreCompileInputs.cache
+C:\Users\99455\Desktop\hecer c++\user\obj\Debug\net6.0\user.dll
+C:\Users\99455\Desktop\hecer c++\user\obj\Debug\net6.0\refint\user.dll
+C:\Users\99455\Desktop\hecer c++\user\obj\Debug\net6.0\user.pdb
+C:\Users\99455\Desktop\hecer c++\user\obj\Debug\net6.0\user.genruntimeconfig.cache
+C:\Users\99455\Desktop\hecer c++\user\obj\Debug\net6.0\ref\user.dll
